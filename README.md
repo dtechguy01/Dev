@@ -1,24 +1,19 @@
 <div align="center">
 
-# 🌌 Welcome to My Digital Forge
-### **Web Developer & Visual Architect**
+<img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=DEVMACA&fontSize=90&fontAlignY=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Experiences;Designing+The+Future+UI;Converting+Logic+Into+Art" alt="Typing SVG" />
+### **Full-Stack Developer & Design Architect**
+*Crafting seamless digital products from concept to deployment.*
 
 ---
 
-## 🧪 The Cosmic Stack (Chef's Recipe)
-*Where high-performance code meets neon aesthetics.*
+## 🍱 The DevMaca "Full-Stack" Platter
+*A balanced diet of logic and aesthetics.*
 
-```json
-{
-  "project_flavor": "Cyber-Minimalism",
-  "ingredients": {
-    "core": "Next.js / TypeScript",
-    "visuals": "TailwindCSS + Framer Motion",
-    "design": "Figma (Auto-Layout Master)",
-    "spice": "GSAP Animations"
-  },
-  "status": "Rendering Excellence..."
-}
-
+```javascript
+const devMaca = {
+  frontend: ["React", "Next.js", "TailwindCSS"],
+  backend:  ["Node.js", "PostgreSQL", "Prisma"],
+  design:   ["Figma", "Design Systems", "Interaction UI"],
+  status:   "Cooking up high-performance web apps 🚀"
+};
