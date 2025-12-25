@@ -1,2 +1,17 @@
-# Dev
-.perfect-brunch {   background: linear-gradient(to-bottom, #f8d7da, #fff);   content: "Smoked Salmon Bagel";   display: flex;   texture: crispy-outside;   vibe: aesthetic-minimalist;   font-weight: bold; /* For that extra crunch */   z-index: 999; /* Priority on the plate */ }
+
+# Hi there, I'm [DevMaca] 👋
+### 💻 Web Developer & Creative Designer
+
+---
+
+## 🍽️ The "Developer Stack" Recipe
+This is how I build digital experiences:
+
+```css
+.project-recipe {
+  base: "Clean HTML/Next.js";
+  logic: "Robust TypeScript/React";
+  styling: "Tailwind & Aesthetic CSS";
+  ux-feel: "Smooth animations & Accessibility";
+  secret-ingredient: "Obsessive attention to detail";
+}
