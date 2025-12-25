@@ -1,17 +1,24 @@
+<div align="center">
 
-# Hi there, I'm [DevMaca] 👋
-### 💻 Web Developer & Creative Designer
+# 🌌 Welcome to My Digital Forge
+### **Web Developer & Visual Architect**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Experiences;Designing+The+Future+UI;Converting+Logic+Into+Art" alt="Typing SVG" />
 
 ---
 
-## 🍽️ The "Developer Stack" Recipe
-This is how I build digital experiences:
+## 🧪 The Cosmic Stack (Chef's Recipe)
+*Where high-performance code meets neon aesthetics.*
 
-```css
-.project-recipe {
-  base: "Clean HTML/Next.js";
-  logic: "Robust TypeScript/React";
-  styling: "Tailwind & Aesthetic CSS";
-  ux-feel: "Smooth animations & Accessibility";
-  secret-ingredient: "Obsessive attention to detail";
+```json
+{
+  "project_flavor": "Cyber-Minimalism",
+  "ingredients": {
+    "core": "Next.js / TypeScript",
+    "visuals": "TailwindCSS + Framer Motion",
+    "design": "Figma (Auto-Layout Master)",
+    "spice": "GSAP Animations"
+  },
+  "status": "Rendering Excellence..."
 }
+
